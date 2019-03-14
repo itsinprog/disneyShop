@@ -12,9 +12,7 @@ Who knows if I will finish this forgot I even started it
 
 ### Prerequisites
 
-```
 [Python 2.7](https://www.python.org/downloads/)
-```
 
 ### Installing
 
@@ -34,7 +32,7 @@ pip install -r requirements.txt
 python run.py
 ```
 
-All products will be stored in /lib/data/productStore.json
+All products will be stored in lib/data/productStore.json
 
 ## Built With
 
