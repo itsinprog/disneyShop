@@ -2,3 +2,4 @@ lib/data/*
 lib/*.pyc
 *.pyc
 lib/.DS_Store
+.DS_Store
